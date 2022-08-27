@@ -1,6 +1,6 @@
-#### Exemplo de IaC
+### Exemplo de IaC
 
-##### Arquivos de configurações
+#### Arquivos de configurações
 
 1) config-servidor-iac:
     > Instalação do servidor web na máquina.
